@@ -1,0 +1,14 @@
+{
+  "theme": "thecoreelementor",
+  "channel": "main",
+  "version": "1.0.1",
+  "package": "https://github.com/webinart/thecore-elementor-updates/releases/download/theme-main-v1.0.1/thecoreelementor-1.0.1-main.zip",
+  "details_url": "https://github.com/webinart/thecore-elementor-updates/releases/tag/theme-main-v1.0.1",
+  "source_branch": "main",
+  "manifest_url": "https://raw.githubusercontent.com/webinart/thecore-elementor-updates/theme-updates/main.json",
+  "requires_php": "",
+  "requires_wp": "",
+  "tested": "",
+  "sha256": "182e89d4182b1f170cb18d074fd941abd80398bddb72eba245b194ce43910370",
+  "published_at": "2026-03-09T14:11:44Z"
+}
