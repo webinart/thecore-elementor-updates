@@ -1,14 +1,14 @@
 {
   "theme": "thecoreelementor",
   "channel": "beta",
-  "version": "1.0.10-beta.2",
-  "package": "https://github.com/webinart/thecore-elementor-updates/releases/download/theme-beta-v1.0.10-beta.2/thecoreelementor-1.0.10-beta.2-beta.zip",
-  "details_url": "https://github.com/webinart/thecore-elementor-updates/releases/tag/theme-beta-v1.0.10-beta.2",
+  "version": "1.0.10-beta.3",
+  "package": "https://github.com/webinart/thecore-elementor-updates/releases/download/theme-beta-v1.0.10-beta.3/thecoreelementor-1.0.10-beta.3-beta.zip",
+  "details_url": "https://github.com/webinart/thecore-elementor-updates/releases/tag/theme-beta-v1.0.10-beta.3",
   "source_branch": "beta",
   "manifest_url": "https://raw.githubusercontent.com/webinart/thecore-elementor-updates/theme-updates/beta.json",
   "requires_php": "",
   "requires_wp": "",
   "tested": "",
-  "sha256": "1962d76160c4c0ac886dbea621324f96a1b07aeaf349ec63163ae8626478f3c3",
-  "published_at": "2026-03-10T17:23:57Z"
+  "sha256": "3849df2b3a8770951c3a89b84aec06d34ddf91181eda6a6f63fb59a4e0eb76ad",
+  "published_at": "2026-03-10T18:50:47Z"
 }
